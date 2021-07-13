@@ -1,0 +1,195 @@
+.navi{
+    height:70px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    color:rgb(250, 245, 245);
+    background-color:rgb(80, 80, 82);
+
+}
+a
+{
+    text-decoration: none;
+    color:inherit;
+}
+.n1
+{
+    padding-top: 14px;
+}
+.head
+{
+    background-color: rgb(218, 210, 210);
+    font-family: 'Montserrat' sans-serif;
+    color:black;
+    padding:4px;
+}
+.img1
+{
+    width:300px;
+    height:60px;
+    padding-bottom: 10px;
+    
+}
+
+.carousel-inner .carousel-item {
+    margin-top:-1px;
+    height: 550px;
+  }
+  
+  .carousel-item img {
+      margin-top: -1px;
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 550px;
+  }
+  .vada1
+  {
+      height: 400px;
+  }
+  li 
+  {
+      font-family: 'Montserrat' sans-serif;
+      padding: 5px;
+  }
+  .vada
+  {
+      height:400px;
+      width:500px;
+      padding: 12px;
+      margin-top:25px;
+  }
+  #v1
+  {
+     color:rgb(21, 126, 26);
+     padding-top: 50px;
+     font-family: 'Montserrat', sans-serif;
+  }
+  #vada
+  {
+    font-family: 'Montserrat', sans-serif;
+     padding-top: 20px;
+
+  }
+  .explore
+  {
+      text-align: center;
+      height: 100px;
+      font-family: 'Montserrat', sans-serif;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  .icon
+  {
+      color: rgb(36, 36, 228);
+      height: 170px;
+      width: 170px
+  }
+.centered
+{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:rgb(54, 58, 63);
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+    
+}
+.centeredi
+{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:rgb(49, 82, 233);
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+    
+}
+#size
+{
+    padding-top: 60px;
+}
+.dish
+{
+    height: 250px;
+    padding: 10px;
+}
+#items
+{
+    font-family: Amatic SC;
+    text-transform: uppercase;
+    color: rgb(42, 120, 238);
+    padding-top: 5px;
+    text-align: center;
+}
+#about{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(12, 12, 12);
+    padding:6px;
+}
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom:35px;
+    text-align: center;
+}
+.review
+{
+    height:250px;
+    
+}
+.r1
+{
+    background-color: rgb(160, 164, 202);
+    box-shadow: 5px 10px black;
+    margin-bottom: 10px;
+}
+h4
+{
+    font-family: 'amatic sc';
+    font-weight: 400, bold;
+
+}
+.footer
+{
+    margin-top: 40px;
+    height:40px;
+    background-color: rgb(218, 210, 210);
+
+}
+.end 
+{
+    height:65px;
+    background-color: rgb(124, 124, 126);
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+    text-decoration: none;
+    color:inherit;
+}
+.about1
+{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 7px 12px rgb(31, 30, 30);
+    height:800px;
+    margin: 50px;
+}
+#story
+{    
+    margin-top: 30px;
+    font-size: 15.5px;
+    font-family:'Montserrat', sans-serif;
+    padding: 5px;
+}
+.invite
+{
+    height:inherit;
+    background-color: rgb(250, 249, 236);
+    margin-top:20px;
+    margin-bottom: 20px;
+    
+}
